@@ -29,7 +29,7 @@ To perform these tasks, the following Python libraries such as NumPy, SciPy, Pan
 
 Analyzed the maximum complaint types i.e., around internet, network issues, or across any other domains.
 - Created a new categorical variable with value as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
-- Provided state wise status of complaints in a stacked bar chart. Used the categorized variable from Q3. Provided insights on:  
+- Provided state wise status of complaints in a stacked bar chart. Provided insights on:  
 1. State with maximum complaints  
 2. State with highest percentage of unresolved complaints  
 3. Provided the percentage of complaints resolved till date, which were received through the Internet and customer care calls.
